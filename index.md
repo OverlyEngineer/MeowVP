@@ -4,7 +4,7 @@ MoewVP is project management for catty managers.
 
 # The Cat-like Meowfesto
 
-1. Be really attentive to the needs of the boss until they are fully committed.
+1. Be attentive to the needs of the boss until they are fully committed.
 2. Undermine your detractors.  Knock their drinks over onto their laptops.  Never break eye contact.
 3. Bat the project around for a while.  Now walk away.
 4. Hiss loudly at anyone that says your project is less capable than the thing it replaced.
