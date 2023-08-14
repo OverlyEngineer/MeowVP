@@ -12,4 +12,4 @@ MeowVP is project management for catty managers.
   
 ### Support
 
-In these unprecidented normal times, we care about your feedback.  Please open a Jira ticket by contacting noreply@meowvp.com.
+In these unprecedented normal times, we care about your feedback.  Please open a Jira ticket by contacting noreply@meowvp.com.
