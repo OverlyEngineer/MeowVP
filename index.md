@@ -2,7 +2,7 @@
 
 MoewVP is project management for catty managers.
 
-# The Cat-like Moewfesto
+# The Cat-like Meowfesto
 
 1. Be really attentive to the needs of the boss until they are fully committed.
 2. Undermine your detractors.  Knock their drinks over onto their laptops.  Never break eye contact.
