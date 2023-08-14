@@ -1,6 +1,6 @@
 # Meowable Viable Product
 
-Project management for catty managers
+MoewVP is project management for catty managers.
 
 # The Lazy Moewfesto
 
